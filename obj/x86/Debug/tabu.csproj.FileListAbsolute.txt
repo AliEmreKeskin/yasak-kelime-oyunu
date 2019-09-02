@@ -1,0 +1,3 @@
+D:\Tabu\obj\x86\Debug\tabu.csprojResolveAssemblyReference.cache
+D:\Tabu\obj\x86\Debug\safeprojectname.form1.resources
+D:\Tabu\obj\x86\Debug\tabu.csproj.GenerateResource.Cache

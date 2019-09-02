@@ -1,0 +1,27 @@
+(El Yapýmý Kelimeleri amatörler yazdý, diðeri orjinal)
+
+Tabu Süresini açýn ve kelimeyi anlatmaya baþlayýn. Çift süre için 2. defa süre bitti demesini bekleyin.
+
+Valla tabu tahtasýný, ister ordan büyük olarak çýkartýn ya da 50 kuruþa bir mukavva alýp, kare kare patates baskýsý yapýn. Ben kaðýttan kare kalýp yaptým, fosforlu kalemle hemen kareleri çizdim yarým saate oldu.
+
+
+
+Kelimeleri Karýþýk olarak yeniden isimlendirmek isterseniz:
+- "File Renamer Basic" programýný kurun
+- Kelimelerin olduðu klasörü açýn
+- Alttaki "Filename" kýsmýnda "Leave Unchanged"ý "custom filename" yapýn
+- Alttaki "Unique Parameter" kýsmýnda bulunan
+-- Incrementi Random seçin
+-- Unique Random No'ya tik koyun
+- Preview (soruya evet) sonra da Apply deyin
+
+Bu Programla istediðiniz gibi isim verebilirsiniz.
+
+
+Tabu_411_Kelime dosyasýndan kendi kelimenizi yazabilirsiniz.
+Makrolara izin verirseniz, Ctrl+J tusu sectiðiniz kelime kartýný resim olarak kopyalar. Ben öyle kestim, painte resim olarak atýp kaydettim.
+
+Eðlenceler!
+
+kahramanmaras.org
+BuRaX
